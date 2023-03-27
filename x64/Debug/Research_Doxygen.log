@@ -1,0 +1,5 @@
+﻿  main.cpp
+  MyClass1.cpp
+C:\Users\yehju\Documents\Research_Doxygen\MyClass1.cpp(4,16): error C2511: 'void MyClass1::memberFunction(void)': overloaded member function not found in 'MyClass1'
+C:\Users\yehju\Documents\Research_Doxygen\MyClass1.h(6): message : see declaration of 'MyClass1'
+  Generating Code...
